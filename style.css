@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(186, 186, 14, 0.726);
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+p{
+    display:flex;
+    text-align: center;
+    font-family: 'Babylonica', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: 800;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
